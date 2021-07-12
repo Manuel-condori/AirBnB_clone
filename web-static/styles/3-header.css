@@ -4,8 +4,8 @@ header {
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
 }
-header .logo {
-    content: url("../images/logo.png") no-repeat;
+header div.logo {
+    content: url("../images/logo.png");
     left: 20px;
     position: absolute;
 }
